@@ -1,0 +1,6 @@
+C:\Users\kostr\source\repos\kostroEugenTreciZadatak\kostroEugenTreciZadatak\bin\Debug\kostroEugenTreciZadatak.exe.config
+C:\Users\kostr\source\repos\kostroEugenTreciZadatak\kostroEugenTreciZadatak\bin\Debug\kostroEugenTreciZadatak.exe
+C:\Users\kostr\source\repos\kostroEugenTreciZadatak\kostroEugenTreciZadatak\bin\Debug\kostroEugenTreciZadatak.pdb
+C:\Users\kostr\source\repos\kostroEugenTreciZadatak\kostroEugenTreciZadatak\obj\Debug\kostroEugenTreciZadatak.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenTreciZadatak\kostroEugenTreciZadatak\obj\Debug\kostroEugenTreciZadatak.exe
+C:\Users\kostr\source\repos\kostroEugenTreciZadatak\kostroEugenTreciZadatak\obj\Debug\kostroEugenTreciZadatak.pdb
